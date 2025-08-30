@@ -1,0 +1,10 @@
+# The following libraries are used for the app
+streamlit
+pandas
+numpy
+scikit-learn
+yfinance
+joblib
+fredapi
+matplotlib
+seaborn
