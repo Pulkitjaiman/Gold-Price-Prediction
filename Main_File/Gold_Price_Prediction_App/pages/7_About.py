@@ -83,17 +83,6 @@ st.markdown("""
 - We also analyze **past 30-day trends** to detect **peak and trough prices**
 """)
 
-# ---------- Team ----------
-st.subheader("👨‍💻 Project Team")
-st.markdown("""
-**Team B**  
-- Kuldeep  
-- Somya Khandelwal  
-- Vishnu Pal  
-- Anjali  
-- Pulkit Jaiman
-""")
-
 # ---------- Footer ----------
 st.markdown("---")
 st.caption("Built using Streamlit | Powered by Yahoo Finance and FRED APIs | © 2025")
