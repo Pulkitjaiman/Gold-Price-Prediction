@@ -77,4 +77,4 @@ st.markdown("""
 
 # -------- Footer --------
 st.markdown("---")
-st.caption("Developed by Team B | Powered by Yahoo Finance, FRED, and Scikit-learn")
+st.caption("Powered by Yahoo Finance, FRED, and Scikit-learn")
